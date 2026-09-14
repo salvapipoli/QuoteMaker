@@ -1,0 +1,10 @@
+{
+  "name": "QuoteMaker",
+  "short_name": "QuoteMaker",
+  "description": "Create professional quotes wherever you work.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f6f8fc",
+  "theme_color": "#11233f",
+  "icons": [{ "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
